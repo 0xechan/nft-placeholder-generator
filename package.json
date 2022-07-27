@@ -1,0 +1,27 @@
+{
+  "name": "nft-placeholder-generator",
+  "description": "A CLI for generating placeholder images and metadata for a trial run deployment on testnet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "placeholder-gen": "index.js"
+  },
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "yargs": "^17.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etheria-chan/nft-placeholder-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etheria-chan/nft-placeholder-generator/issues"
+  },
+  "homepage": "https://github.com/etheria-chan/nft-placeholder-generator#readme"
+}
