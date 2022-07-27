@@ -1,3 +1,7 @@
+# NFT Placeholder Generator
+
+This is a sample project that generates junk placeholder images and metadata for playing with NFT contracts on a test net. Images are generated at 512x512, but they really don't need to be. They are a solid color, which substantially reduces the compressed jpeg footprint. A folder of 100 images is <1MB.
+
 # Installing
 
 There is no npm module at this time. To install:
